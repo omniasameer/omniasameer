@@ -3,7 +3,7 @@
 <h3 align="center"> Software Engineer </h3>
 
 <p align="center">
-  <img src="https://github.com/omniasameer/omniasameer/blob/main/github.png?raw=true" width="600" height="600" alt="GitHub Banner">
+  <img src="https://github.com/omniasameer/omniasameer/blob/main/github.png?raw=true" width="500" height="500" alt="GitHub Banner">
 </p>
 
 

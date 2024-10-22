@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Omnia Samir</h1>
 <h3 align="center">A Software Engineer </h3>
 
-![GitHub Banner](https://github.com/omniasameer/omniasameer/blob/main/github.png?raw=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/path-to-your-image.png" width="400" height="400" alt="GitHub Banner">
+</p>
 
 
 <p align="center">

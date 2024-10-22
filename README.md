@@ -3,7 +3,7 @@
 <h3 align="center">A Software Engineer </h3>
 
 <p align="center">
-    <img src="![GitHub Banner](https://raw.githubusercontent.com/your-username/your-repo/main/path-to-your-image.png)" alt="GitHub Banner" width="600" height="400"/>
+    ![GitHub Banner](https://github.com/omniasameer/omniasameer/blob/main/github.png?raw=true)
 </p>
 
 <p align="center">

@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Omnia Samir</h1>
 <h3 align="center">A Software Engineer </h3>
 
-<p align="center">
-    ![GitHub Banner](https://github.com/omniasameer/omniasameer/blob/main/github.png?raw=true)
-</p>
+![GitHub Banner](https://github.com/omniasameer/omniasameer/blob/main/github.png?raw=true)
+
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=455&height=65&lines=Hey+There+%F0%9F%91%8B%2C+I'm+Omnia+Samir;AI+Engineer+%F0%9F%92%BB" alt="Typing SVG" />

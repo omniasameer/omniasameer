@@ -3,7 +3,7 @@
 <h3 align="center">A Software Engineer </h3>
 
 <p align="center">
-    <img src="https://www.istockphoto.com/photo/ai-chatbot-artificial-intelligence-digital-concept-gm1494104649-517566292?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fai-and-machine-learning&utm_medium=affiliate&utm_source=unsplash&utm_term=ai+and+machine+learning%3A%3Aaffiliate-collections%3Acontrol" alt="GitHub Banner" width="600" height="400"/>
+    <img src="![GitHub Banner](https://raw.githubusercontent.com/your-username/your-repo/main/path-to-your-image.png)" alt="GitHub Banner" width="600" height="400"/>
 </p>
 
 <p align="center">

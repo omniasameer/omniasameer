@@ -1,9 +1,9 @@
 <!-- ----------- HEAD SECTION ------------ -->
 <h1 align="center">Hi 👋, I'm Omnia Samir</h1>
-<h3 align="center">A Software Engineer </h3>
+<h3 align="center"> Software Engineer </h3>
 
 <p align="center">
-  <img src="https://github.com/omniasameer/omniasameer/blob/main/github.png?raw=true" width="400" height="400" alt="GitHub Banner">
+  <img src="https://github.com/omniasameer/omniasameer/blob/main/github.png?raw=true" width="600" height="600" alt="GitHub Banner">
 </p>
 
 
